@@ -17,7 +17,7 @@
 
 [问题描述](./images/question5.png)
 
-[思路一(推荐)](./code/Question5/Solution1.py) [思路2(推荐)](./code/Question5/Solution2.py) [思路3](./code/Question5/Solution3.py) [思路4(不推荐)](./code/Question5/Solution4.py) 
+[思路1(推荐)](./code/Question5/Solution1.py) [思路2(推荐)](./code/Question5/Solution2.py) [思路3](./code/Question5/Solution3.py) [思路4(不推荐)](./code/Question5/Solution4.py) 
 
 
 
