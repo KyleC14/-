@@ -13,11 +13,23 @@
 
 [思路1](./code/Question4/Solution1.py) [思路2](./code/Question4/Solution2.py) [思路3](./code/Question4/Solution3.py) [思路4](./code/Question4/Solution4.py)
 
+
+
 #### 05. 替换空格
 
 [问题描述](./images/question5.png)
 
 [思路1(推荐)](./code/Question5/Solution1.py) [思路2(推荐)](./code/Question5/Solution2.py) [思路3](./code/Question5/Solution3.py) [思路4(不推荐)](./code/Question5/Solution4.py) 
+
+
+
+#### 06. 从尾到头打印链表
+[问题描述](./images/question6.png)
+
+[思路1](./code/6/Solution1.py) [思路2](./code/Question6/Solution2.py)
+
+
+
 
 
 
