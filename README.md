@@ -26,7 +26,7 @@
 #### 06. 从尾到头打印链表
 [问题描述](./images/question6.png)
 
-[思路1](./code/6/Solution1.py) [思路2](./code/Question6/Solution2.py)
+[思路1](./code/Question6/Solution1.py) [思路2](./code/Question6/Solution2.py)
 
 
 
