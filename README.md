@@ -37,6 +37,14 @@
 
 
 
+#### 09. 用两个栈实现队列
+
+[问题描述](./images/question9.png)
+
+[思路1](./code/Question9/Solution1.py) 
+
+
+
 
 
 

@@ -2,7 +2,6 @@
 根据前序遍历的特点（第一个为根节点）和中序遍历的特点（根节点左边为左子树，右边为右子树），递归重建二叉树
 '''
 
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
