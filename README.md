@@ -30,6 +30,15 @@
 
 
 
+#### 07. 重建二叉树
+[问题描述](./images/question7.png)
+
+[思路1](./code/Question7/Solution1.py) [思路2](./code/Question7/Solution2.py)
+
+
+
+
+
 
 
 
