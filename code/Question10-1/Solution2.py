@@ -2,7 +2,7 @@
 标准递归 但leetcode会超时
 '''
 
-class Solution2:
+class Solution:
     def __init__(self):
         self.fzero = 0
         self.fone = 1

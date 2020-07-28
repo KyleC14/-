@@ -2,7 +2,7 @@
 优化递归 不算重复算过的数 leetcode仍然超时
 '''
 
-class Solution3:
+class Solution:
     def __init__(self):
         self.fzero = 0
         self.fone = 1
