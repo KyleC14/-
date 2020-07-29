@@ -53,6 +53,12 @@
 
 
 
+#### 10-2. 青蛙跳台阶问题
+[问题描述](./images/question10-2.png)
+
+[思路1](./code/Question10-2/Solution1.py)
+
+
 
 
 
