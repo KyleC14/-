@@ -74,4 +74,12 @@
 
 
 
+#### 13. 机器人的运动范围
+[问题描述](./images/question13.png)
+
+[思路1](./code/Question13/Solution1.py) [思路2](./code/Question13/Solution2.py) [思路3](./code/Question13/Solution3.py) 
+
+
+
+
 
