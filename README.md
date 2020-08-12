@@ -103,4 +103,7 @@
 
 
 
+#### 16. 数值的整数次方
+[问题描述](./images/question16.png)
 
+[思路1](./code/Question16/Solution1.py) [思路2](./code/Question16/Solution2.py)
