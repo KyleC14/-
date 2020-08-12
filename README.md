@@ -89,5 +89,14 @@
 
 
 
+#### 14-2. 剪绳子
+[问题描述](./images/question14-2.png)
+
+[思路1](./code/Question14-2/Solution1.py) [思路2](./code/Question14-2/Solution2.py) 
+
+
+
+
+
 
 
