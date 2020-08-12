@@ -96,6 +96,10 @@
 
 
 
+#### 15. 二进制中1的个数
+[问题描述](./images/question15.png)
+
+[思路1](./code/Question15/Solution1.py) [思路2](./code/Question15/Solution2.py) [思路3](./code/Question15/Solution3.py)
 
 
 
