@@ -114,3 +114,10 @@
 [问题描述](./images/question17.png)
 
 [思路1](./code/Question17/Solution1.py) [思路2](./code/Question17/Solution2.py)
+
+
+
+#### 18. 删除链表中的节点
+[问题描述](./images/question18.png)
+
+[思路1](./code/Question18/Solution1.py) [思路2](./code/Question18/Solution2.py)
