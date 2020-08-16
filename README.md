@@ -128,3 +128,10 @@
 [问题描述](./images/question19.png)
 
 [思路1](./code/Question19/Solution1.py) [思路2](./code/Question19/Solution2.py)
+
+
+
+#### 20. 表示数值的字符串
+[问题描述](./images/question20.png)
+
+[思路1](./code/Question20/Solution1.py) 
