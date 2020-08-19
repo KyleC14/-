@@ -142,3 +142,10 @@
 [问题描述](./images/question21.png)
 
 [思路1](./code/Question21/Solution1.py) [思路2](./code/Question21/Solution2.py) [思路3](./code/Question21/Solution3.py)
+
+
+
+#### 22. 链表中倒数第k个节点
+[问题描述](./images/question22.png)
+
+[思路1](./code/Question22/Solution1.py) [思路2](./code/Question22/Solution2.py) [思路3](./code/Question22/Solution3.py)
