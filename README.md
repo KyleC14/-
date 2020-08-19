@@ -139,5 +139,6 @@
 
 
 #### 21. 调整数组顺序使奇数位于偶数前面
+[问题描述](./images/question21.png)
 
 [思路1](./code/Question21/Solution1.py) [思路2](./code/Question21/Solution2.py) [思路3](./code/Question21/Solution3.py)
