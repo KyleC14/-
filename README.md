@@ -163,3 +163,10 @@
 [问题描述](./images/question25.png)
 
 [思路1](./code/Question25/Solution1.py) [思路2](./code/Question25/Solution2.py)
+
+
+
+#### 26. 树的子结构
+[问题描述](./images/question26.png)
+
+[思路1](./code/Question26/Solution1.py)
