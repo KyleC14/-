@@ -177,3 +177,10 @@
 [问题描述](./images/question27.png)
 
 [思路1](./code/Question27/Solution1.py) [思路2](./code/Question27/Solution2.py)
+
+
+
+#### 28. 对称的二叉树
+[问题描述](./images/question28.png)
+
+[思路1](./code/Question28/Solution1.py) [思路2](./code/Question28/Solution2.py) [思路3](./code/Question28/Solution3.py)
