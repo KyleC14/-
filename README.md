@@ -191,3 +191,10 @@
 [问题描述](./images/question29.png)
 
 [思路1](./code/Question29/Solution1.py) [思路2](./code/Question29/Solution2.py)
+
+
+
+#### 30. 包含min函数的栈
+[问题描述](./images/question30.png)
+
+[思路1](./code/Question30/Solution1.py)
