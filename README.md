@@ -184,3 +184,10 @@
 [问题描述](./images/question28.png)
 
 [思路1](./code/Question28/Solution1.py) [思路2](./code/Question28/Solution2.py) [思路3](./code/Question28/Solution3.py)
+
+
+
+#### 29. 顺时针打印矩阵
+[问题描述](./images/question29.png)
+
+[思路1](./code/Question29/Solution1.py) [思路2](./code/Question29/Solution2.py)
