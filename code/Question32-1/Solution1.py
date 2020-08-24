@@ -9,6 +9,7 @@ class Solution:
         if not root:
             return result
         result.append(root.val)
+        #这里必须使用while 如果是range的话 对于 python ，range() 的工作机制是在开启循环时建立一个列表，然后循环按照这个列表进行，因此“只会在进入循环前执行一次 len(queue) ” ；
         while i<len(stack):
             if stack[i].left:
                 stack.append(stack[i].left)
