@@ -219,3 +219,10 @@
 [问题描述](./images/question32-2.png)
 
 [思路1](./code/Question32-2/Solution1.py) [思路2](./code/Question32-2/Solution2.py)
+
+
+
+#### 32-3. 从上到下打印二叉树 lll
+[问题描述](./images/question32-3.png)
+
+[思路1](./code/Question32-3/Solution1.py) [思路2](./code/Question32-3/Solution2.py) [思路3](./code/Question32-3/Solution3.py)
