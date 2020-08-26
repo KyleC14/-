@@ -233,3 +233,10 @@
 [问题描述](./images/question33.png)
 
 [思路1](./code/Question33/Solution1.py) [思路2](./code/Question33/Solution2.py)
+
+
+
+#### 34. 二叉树中和为某一值的路径
+[问题描述](./images/question34.png)
+
+[思路1](./code/Question34/Solution1.py)
