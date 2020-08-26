@@ -226,3 +226,10 @@
 [问题描述](./images/question32-3.png)
 
 [思路1](./code/Question32-3/Solution1.py) [思路2](./code/Question32-3/Solution2.py) [思路3](./code/Question32-3/Solution3.py)
+
+
+
+#### 33. 二叉搜索树的后序遍历
+[问题描述](./images/question33.png)
+
+[思路1](./code/Question33/Solution1.py) [思路2](./code/Question33/Solution2.py)
