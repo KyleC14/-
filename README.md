@@ -254,3 +254,10 @@
 [问题描述](./images/question36.png)
 
 [思路1](./code/Question36/Solution1.py) [思路2](./code/Question36/Solution2.py)
+
+
+
+#### 37. 序列化二叉树
+[问题描述](./images/question37.png)
+
+[思路1](./code/Question37/Solution1.py)
