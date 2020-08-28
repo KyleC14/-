@@ -52,7 +52,7 @@ class Codec:
             i+=1
         return head
 '''
-严格序列化
+严格序列化 把反序列化的data用队列处理
 '''
 class Codec:
     def serialize(self, root):
