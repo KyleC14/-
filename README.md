@@ -247,3 +247,10 @@
 [问题描述](./images/question35.png)
 
 [思路1](./code/Question35/Solution1.py) [思路2](./code/Question35/Solution2.py)
+
+
+
+#### 36. 二叉搜索树与双向链表
+[问题描述](./images/question36.png)
+
+[思路1](./code/Question36/Solution1.py) [思路2](./code/Question36/Solution2.py)
