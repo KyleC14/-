@@ -53,7 +53,7 @@ class Solution2:
         return result  
 ''''' 
 优化2 
-不用set 实际也是检查当前位之前的数字是否有重复，有这跳过这一位数 
+不用set 实际也是检查当前位之前的数字是否有重复，有则跳过这一位数 
 '''  
 class Solution3:  
     def permutation(self, s: str) -> List[str]:  
