@@ -261,3 +261,10 @@
 [问题描述](./images/question37.png)
 
 [思路1](./code/Question37/Solution1.py)
+
+
+
+#### 38. 字符串的排列
+[问题描述](./images/question38.png)
+
+[思路1](./code/Question38/Solution1.py)
