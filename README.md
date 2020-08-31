@@ -268,3 +268,11 @@
 [问题描述](./images/question38.png)
 
 [思路1](./code/Question38/Solution1.py)
+
+
+
+#### 39. 数组中出现的次数超过一半的数字
+[问题描述](./images/question39.png)
+
+[思路1](./code/Question39/Solution1.py) [思路2(超时)](./code/Question39/Solution2.py) [思路3](./code/Question39/Solution3.py) [思路4](./code/Question39/Solution4.py)
+
