@@ -276,3 +276,9 @@
 
 [思路1](./code/Question39/Solution1.py) [思路2(超时)](./code/Question39/Solution2.py) [思路3](./code/Question39/Solution3.py) [思路4](./code/Question39/Solution4.py)
 
+
+
+#### 40. 最小的k个数
+[问题描述](./images/question40.png)
+
+[思路1](./code/Question40/Solution1.py) [思路2](./code/Question40/Solution2.py) [思路3](./code/Question40/Solution3.py)
