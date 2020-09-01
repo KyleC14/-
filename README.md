@@ -282,3 +282,11 @@
 [问题描述](./images/question40.png)
 
 [思路1](./code/Question40/Solution1.py) [思路2](./code/Question40/Solution2.py) [思路3](./code/Question40/Solution3.py)
+
+
+
+#### 41. 数据流中的中位数
+[问题描述](./images/question41.png)
+
+[思路1](./code/Question41/Solution1.py) [思路2](./code/Question41/Solution2.py)
+
