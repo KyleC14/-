@@ -290,3 +290,9 @@
 
 [思路1](./code/Question41/Solution1.py) [思路2](./code/Question41/Solution2.py)
 
+
+
+#### 42. 连续子数组的最大和
+[问题描述](./images/question42.png)
+
+[思路1](./code/Question42/Solution1.py)
