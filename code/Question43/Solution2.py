@@ -8,8 +8,10 @@ class Solution:
         n_str = n_str[::-1]
         count = 0
         for i in range(len(n_str)):
+            #下界
             count += n//(10**(i+1))*(10**i)
             dig = int(n_str[i])
+            #上届 分三种情况 当前位数字>1,=1,=0(等于0时数量也为0)
             if dig > 1:
                 count+=10**i
             elif dig == 1:
