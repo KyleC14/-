@@ -296,3 +296,10 @@
 [问题描述](./images/question42.png)
 
 [思路1](./code/Question42/Solution1.py)
+
+
+
+#### 43. 1~n整数中1出现的次数
+[问题描述](./images/question43.png)
+
+[思路1(超时)](./code/Question43/Solution1.py) [思路2](./code/Question43/Solution2.py)
