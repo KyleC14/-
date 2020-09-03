@@ -310,3 +310,10 @@
 [问题描述](./images/question44.png)
 
 [思路1](./code/Question44/Solution1.py)
+
+
+
+#### 45. 把数组排成最小的数
+[问题描述](./images/question45.png)
+
+[思路1](./code/Question45/Solution1.py)
