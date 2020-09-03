@@ -303,3 +303,10 @@
 [问题描述](./images/question43.png)
 
 [思路1(超时)](./code/Question43/Solution1.py) [思路2](./code/Question43/Solution2.py)
+
+
+
+#### 44. 数字序列中某一位的数字
+[问题描述](./images/question44.png)
+
+[思路1](./code/Question44/Solution1.py)
