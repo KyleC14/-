@@ -324,3 +324,10 @@
 [问题描述](./images/question46.png)
 
 [思路1](./code/Question46/Solution1.py) [思路2](./code/Question46/Solution2.py)
+
+
+
+#### 47. 礼物的最大价值
+[问题描述](./images/question47.png)
+
+[思路1(超时)](./code/Question47/Solution1.py) [思路2](./code/Question47/Solution2.py)
