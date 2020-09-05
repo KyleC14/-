@@ -317,3 +317,10 @@
 [问题描述](./images/question45.png)
 
 [思路1](./code/Question45/Solution1.py)
+
+
+
+#### 46. 把数字翻译成字符串
+[问题描述](./images/question46.png)
+
+[思路1](./code/Question46/Solution1.py) [思路2](./code/Question46/Solution2.py)
