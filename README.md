@@ -352,4 +352,4 @@
 #### 50. 第一个只出现一次的字符
 [问题描述](./images/question50.png)
 
-[思路1(超时)](./code/Question50/Solution1.py) [思路2](./code/Question50/Solution2.py)
+[思路1](./code/Question50/Solution1.py) [思路2](./code/Question50/Solution2.py)
