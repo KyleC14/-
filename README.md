@@ -338,3 +338,11 @@
 [问题描述](./images/question48.png)
 
 [思路1](./code/Question48/Solution1.py) [思路2](./code/Question48/Solution2.py)
+
+
+
+#### 49. 丑数
+
+[问题描述](./images/question49.png)
+
+[思路1(超时)](./code/Question49/Solution1.py) [思路2](./code/Question49/Solution2.py) [思路3](./code/Question49/Solution3.py)
