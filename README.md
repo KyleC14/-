@@ -331,3 +331,10 @@
 [问题描述](./images/question47.png)
 
 [思路1(超时)](./code/Question47/Solution1.py) [思路2](./code/Question47/Solution2.py)
+
+
+
+#### 48. 最长不含重复字符的子字符串
+[问题描述](./images/question48.png)
+
+[思路1](./code/Question48/Solution1.py) [思路2](./code/Question48/Solution2.py)
