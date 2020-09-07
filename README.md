@@ -353,3 +353,10 @@
 [问题描述](./images/question50.png)
 
 [思路1](./code/Question50/Solution1.py) [思路2](./code/Question50/Solution2.py)
+
+
+
+#### 51. 数组中的逆序对
+[问题描述](./images/question51.png)
+
+[思路1(超时)](./code/Question51/Solution1.py) [思路2](./code/Question51/Solution2.py)
