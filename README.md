@@ -360,3 +360,10 @@
 [问题描述](./images/question51.png)
 
 [思路1(超时)](./code/Question51/Solution1.py) [思路2](./code/Question51/Solution2.py)
+
+
+
+#### 52. 两个链表的第一个公共节点
+[问题描述](./images/question52.png)
+
+[思路1](./code/Question52/Solution1.py) [思路2](./code/Question52/Solution2.py) [思路3](./code/Question52/Solution3.py)
