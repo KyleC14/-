@@ -378,6 +378,6 @@
 
 
 #### 53-2. 0~n-1中缺失的数字
-[问题描述](./images/question53.png)
+[问题描述](./images/question53-2.png)
 
 [思路1](./code/Question53-2/Solution1.py) [思路2](./code/Question53-2/Solution2.py) [思路3](./code/Question53-2/Solution3.py)
