@@ -367,3 +367,10 @@
 [问题描述](./images/question52.png)
 
 [思路1](./code/Question52/Solution1.py) [思路2](./code/Question52/Solution2.py) [思路3](./code/Question52/Solution3.py)
+
+
+
+#### 53-1. 在排序数组中查找数字 I
+[问题描述](./images/question53-1.png)
+
+[思路1](./code/Question53-1/Solution1.py)
