@@ -1,3 +1,6 @@
+'''
+非递归 层次遍历 每层层数加1
+'''
 from collections import deque
 class Solution2:
     def maxDepth(self, root: TreeNode) -> int:
