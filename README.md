@@ -388,3 +388,10 @@
 [问题描述](./images/question54.png)
 
 [思路1](./code/Question54/Solution1.py) [思路2](./code/Question54/Solution2.py)
+
+
+
+#### 55-1. 二叉树的深度
+[问题描述](./images/question55-1.png)
+
+[思路1](./code/Question55-1/Solution1.py) [思路2](./code/Question55-1/Solution2.py) [思路3](./code/Question55-1/Solution3.py)
