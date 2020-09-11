@@ -395,3 +395,11 @@
 [问题描述](./images/question55-1.png)
 
 [思路1](./code/Question55-1/Solution1.py) [思路2](./code/Question55-1/Solution2.py) [思路3](./code/Question55-1/Solution3.py)
+
+
+
+#### 55-2. 平衡二叉树
+[问题描述](./images/question55-2.png)
+
+[思路1](./code/Question55-2/Solution1.py) [思路2](./code/Question55-2/Solution2.py)
+
