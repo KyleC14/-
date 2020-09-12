@@ -406,3 +406,6 @@
 
 
 #### 56-1. 数组中数字出现的次数
+[问题描述](./images/question56-1.png)
+
+[思路1](./code/Question56-1/Solution1.py)
