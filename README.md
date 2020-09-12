@@ -409,3 +409,10 @@
 [问题描述](./images/question56-1.png)
 
 [思路1](./code/Question56-1/Solution1.py)
+
+
+
+#### 56-2. 数组中数字出现的次数 II
+[问题描述](./images/question56-2.png)
+
+[思路1](./code/Question56-2/Solution1.py) [思路2](./code/Question56-2/Solution2.py)
