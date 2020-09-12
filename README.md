@@ -403,3 +403,6 @@
 
 [思路1](./code/Question55-2/Solution1.py) [思路2](./code/Question55-2/Solution2.py)
 
+
+
+#### 56-1. 数组中数字出现的次数
