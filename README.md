@@ -423,3 +423,10 @@
 [问题描述](./images/question57.png)
 
 [思路1(超时)](./code/Question57/Solution1.py) [思路2](./code/Question57/Solution2.py)
+
+
+
+#### 57-2. 和为s的连续正数序列
+[问题描述](./images/question57-2.png)
+
+[思路1](./code/Question57-2/Solution1.py) [思路2](./code/Question57-2/Solution2.py)
