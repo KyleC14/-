@@ -436,4 +436,4 @@
 #### 58-1. 翻转单词顺序
 [问题描述](./images/question58-1.png)
 
-[思路1(不推荐)](./code/Question58-1/Solution1.py) [思路2](./code/Question58-2/Solution2.py) [思路3](./code/Question58-3/Solution3.py)
+[思路1(不推荐)](./code/Question58-1/Solution1.py) [思路2](./code/Question58-1/Solution2.py) [思路3](./code/Question58-1/Solution3.py)
