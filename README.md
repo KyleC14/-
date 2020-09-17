@@ -458,3 +458,10 @@
 [问题描述](./images/question59-2.png)
 
 [思路1](./code/Question59-2/Solution1.py)
+
+
+
+#### 60. n个骰子的点数
+[问题描述](./images/question60.png)
+
+[思路1(超时)](./code/Question60/Solution1.py) [思路2](./code/Question60/Solution2.py)
