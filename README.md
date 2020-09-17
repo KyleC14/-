@@ -465,3 +465,10 @@
 [问题描述](./images/question60.png)
 
 [思路1(超时)](./code/Question60/Solution1.py) [思路2](./code/Question60/Solution2.py)
+
+
+
+#### 61. 扑克牌中的顺子
+[问题描述](./images/question61.png)
+
+[思路1](./code/Question61/Solution1.py) [思路2](./code/Question61/Solution2.py)
