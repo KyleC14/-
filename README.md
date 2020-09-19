@@ -486,3 +486,10 @@
 [问题描述](./images/question63.png)
 
 [思路1(超时)](./code/Question63/Solution1.py) [思路2](./code/Question63/Solution2.py)
+
+
+
+#### 64. 求1+2+...+n
+[问题描述](./images/question64.png)
+
+[思路1](./code/Question64/Solution1.py)
