@@ -500,3 +500,10 @@
 [问题描述](./images/question65.png)
 
 [思路1](./code/Question65/Solution1.py)
+
+
+
+#### 66. 构建乘积数组
+[问题描述](./images/question66.png)
+
+[思路1(超时)](./code/Question66/Solution1.py) [思路2](./code/Question66/Solution2.py)
