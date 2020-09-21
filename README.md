@@ -507,3 +507,10 @@
 [问题描述](./images/question66.png)
 
 [思路1(超时)](./code/Question66/Solution1.py) [思路2](./code/Question66/Solution2.py)
+
+
+
+#### 67. 把字符串转换成整数
+[问题描述](./images/question67.png)
+
+[思路1](./code/Question67/Solution1.py) [思路2](./code/Question67/Solution2.py)
