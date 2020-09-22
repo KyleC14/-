@@ -1,6 +1,5 @@
 '''
-用先序遍历(其实更像DFS)获取到两个节点的路径序列 然后返回最后一个相同节点值即为公共祖先 
-缺点：这种方法没有用到二叉搜索树的有序特性
+对于非二叉搜索数 上一题同样方法可以适用 本质应该算DFS
 '''
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':

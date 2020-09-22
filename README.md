@@ -521,3 +521,10 @@
 [问题描述](./images/question68-1.png)
 
 [思路1](./code/Question68-1/Solution1.py) [思路2](./code/Question68-1/Solution2.py)
+
+
+
+#### 68-2. 二叉搜索树的最近公共祖先
+[问题描述](./images/question68-2.png)
+
+[思路1](./code/Question68-2/Solution1.py) [思路2](./code/Question68-2/Solution2.py)
