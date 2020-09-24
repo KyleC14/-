@@ -1,6 +1,8 @@
-#路径搜索。应该从右上角或者左下角开始。
-#应为左上角的下与右都是递增的，有两条路径。同理右下角，两条路径都是递减的。
-#（左下角开始）
+'''
+从右上角或者左下角开始的路径搜索 因为只有这两个角的可选路径方向 其实Solution2那种解法本质是从右上角开始走 
+https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/3chong-jie-jue-fang-shi-hou-liang-chong-du-ji-bai-/
+这是左下角
+'''
 
 
 class Solution3:

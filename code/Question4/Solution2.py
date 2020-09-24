@@ -1,4 +1,8 @@
-#先从右上角开始，排除列，然后从行开始，排除行，逐步缩小范围，最后目标数会出现在区域右上角
+'''
+最多O(m+n)次
+https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-zuo/
+'''
+
 
 class Solution2:
     def findNumberIn2DArray(self, matrix: List[List[int]], target: int) -> bool:
