@@ -1,7 +1,7 @@
 '''
 前序遍历，从根节点root开始，只要有左子节点，就一直会往左下方走，直到最左下角。 而中序遍历，是从最左下角往上（示例中的4-5-8-9-3），如果碰到节点有右子节点，则会转向（示例中的8-10）。
-
 因此，代码中的if块是用前序数组一直构建左子树，如果碰到了inorder[inorderIndex]，表示到了左下角，这时就需要往上走并处理右子树，也就是while代码块。
+https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-leetcode-s/
 '''
 # Definition for a binary tree node.
 # class TreeNode:
