@@ -10,18 +10,23 @@
 class CQueue:
 
     def __init__(self):
-        self.stack01 = []
-        self.stack02 = []
+        #数据栈
+        self.data = []
+        #存储头部元素的辅助栈
+        self.helper = []
 
     def appendTail(self, value: int) -> None:
-        self.stack01.append(value)
+        self.data.append(value)
+
 
     def deleteHead(self) -> int:
-        if len(self.stack02) != 0:
-            return self.stack02.pop()
-        elif len(self.stack01) != 0:
-            while len(self.stack01)!=0:
-                self.stack02.append(self.stack01.pop())
-            return self.stack02.pop()
-        else:
+        #如果辅助栈非空 直接弹出辅助栈顶元素
+        if self.helper:
+            return self.helper.pop()
+        #如果辅助栈为空 数据栈非空 对数据栈已有元素逆序输出至辅助栈 弹出辅助栈栈顶元素
+        elif self.data:
+            while self.data:
+                self.helper.append(self.data.pop())
+            return self.helper.pop()
+        else:#两个栈都是空的 不存在元素 返回-1
             return -1
