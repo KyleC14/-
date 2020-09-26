@@ -14,6 +14,7 @@ class Solution:
         if len(preorder)==0 or len(inorder)==0:
             return None
         center = preorder[0]
+        #当前序号代表当前节点的左子树节点有几个
         index = inorder.index(center)
         inorder_left = inorder[:index]
         inorder_right = inorder[index+1:]
