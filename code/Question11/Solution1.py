@@ -4,7 +4,7 @@
 
 class Solution:
     def minArray(self, numbers: List[int]) -> int:
-    	#如果数组没有旋转 直接返回第一个
+    	#如果数组没有旋转 直接返回第一个 (大部分情况 但是也有例外比如[1,1])
         if numbers[0]<numbers[-1]:
             return numbers[0]
         if numbers:
