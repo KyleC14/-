@@ -11,7 +11,7 @@ class Solution:
         #删除节点在开头
         if head.val == val.val:
             return head.next
-        #删除节为非结尾
+        #删除节为结尾
         elif val.next is None:
             start = head
             while start:
