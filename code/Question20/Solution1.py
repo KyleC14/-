@@ -1,7 +1,7 @@
 '''
 参考剑指offer书解答
 数值字符串的格式
-A[.[B]][e|EC] or .B[e|EC]
+A[.[B]][e|E C] or .B[e|E C]
 A和C部分允许出现正负号 B部分不允许出现正负号 因此A、C调用扫描有符号数函数，B调用扫描无符号数函数
 数字范围为0-9
 大前提 凡是要访问字符串元素必须保证不越界
@@ -37,6 +37,7 @@ class Solution:
         if self.start<len(s) and s[self.start] == '.':
             self.start += 1
             #这里使用or 是因为A、B两部分可以任一不存在 .1  9. 都算数字
+            #scanUnsignedInteger()必须写在前面 因为必须执行此函数
             result = scanUnsignedInteger() or result
         #扫描指数部分
         if self.start<len(s) and (s[self.start] == 'e' or s[self.start] == 'E') :
