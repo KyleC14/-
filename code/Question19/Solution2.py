@@ -10,6 +10,7 @@ class Solution:
         #对第一列做特殊处理 针对 s=None p='a*'可以匹配
         for i in range(1,len(p)):
             dp[i+1][0] = dp[i-1][0] and p[i] == "*"
+        #注意dp的序号 因为遍历是以字符串长度写的 实际dp对应位置要加1
         for i in range(len(p)):
             for j in range(len(s)):
                 if p[i] == '*':
