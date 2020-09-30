@@ -7,7 +7,7 @@ class Solution:
         #初始化动态规划数组
         dp = [[False]*(len(s)+1) for _ in range(len(p)+1)]
         dp[0][0] = True
-        #对第一列做特殊处理 针对 s=None p='*'可以匹配
+        #对第一列做特殊处理 针对 s=None p='a*'可以匹配
         for i in range(1,len(p)):
             dp[i+1][0] = dp[i-1][0] and p[i] == "*"
         for i in range(len(p)):
