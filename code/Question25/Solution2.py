@@ -1,5 +1,6 @@
 '''
 非递归写法
+选出两个链表中合适为下一个节点的节点
 '''
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -36,5 +37,6 @@ class Solution:
             else:
                 head.next,l2 = l2,l2.next
             head = head.next
+        #当其中一个链表为空时 退出循环 我们需要把另一个链表手动连接
         head.next = l1 if l1 else l2
         return result.next
