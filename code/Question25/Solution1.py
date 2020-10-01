@@ -1,5 +1,6 @@
 '''
-递归写法 比较两个链表的第一个节点 选择较大的那个
+递归写法 比较两个链表的第一个节点 选择较大的那个作为当前的头节点
+递归的核心思想是选出当前的头节点(有点像DFS)
 '''
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
