@@ -10,10 +10,10 @@ class Solution:
             root.left,root.right = mirror(root.right),mirror(root.left)
             return root
         def dfs(A,B):
-            if (not A and B) or (not B and A):
-                return False
-            elif not A and not B:
+            if not A and not B:
                 return True
+            elif not A or not B:
+                return False
             return A.val == B.val and dfs(A.left,B.left) and dfs(A.right,B.right)
         #注意深拷贝
         root2 = copy.deepcopy(root)
