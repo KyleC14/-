@@ -1,5 +1,5 @@
 '''
-设置上下左右四条边界 
+设置上下左右四条边界 动态调整四条边界
 参考 https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-she-di/
 '''
 class Solution:
