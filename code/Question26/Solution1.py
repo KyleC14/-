@@ -9,7 +9,7 @@ class Solution:
             #B树已经全部检查完毕 无论A树是否为None 此时结果为True
             if B == None:
                 return True
-            #A树已经全部检查完毕 无论B树为None或者不为None 已经不可能存在子结构
+            #A树已经全部检查完毕 B树不为None 此时已经不可能存在子结构 返回False
             if A == None:
                 return False
             return A.val == B.val and dfs(A.left,B.left) and dfs(A.right,B.right)
