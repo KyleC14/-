@@ -24,3 +24,23 @@ class Solution:
         path = []
         dfs(root,sum)
         return result
+'''
+改良版
+'''
+class Solution:
+    def pathSum(self, root: TreeNode, sum: int) -> List[List[int]]:
+        self.res = []
+        def dfs(root,arr,total):
+            #确保到达叶子节点并且符合目标
+            if sum - total == 0 and not root.left and not root.right:
+                self.res.append(arr)
+                return
+            if root.left:
+                dfs(root.left,arr+[root.left.val],total+root.left.val)
+            if root.right:
+                dfs(root.right,arr+[root.right.val],total+root.right.val)
+            return
+        if not root:
+            return self.res
+        dfs(root,[root.val],root.val)
+        return self.res
