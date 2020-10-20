@@ -17,12 +17,12 @@ class Solution:
         midOrder(root)
         for i in range(len(stack)):
             if i!=len(stack)-1:
-                stack[i].left = stack[i+1]
+                stack[i].right = stack[i+1]
             else:
-                stack[i].left = stack[0]
+                stack[i].right = stack[0]
         for i in range(len(stack)-1,-1,-1):
             if i!=0:
-                stack[i].right = stack[i-1]
+                stack[i].left = stack[i-1]
             else:
-                stack[i].right = stack[-1]
+                stack[i].left = stack[-1]
         return stack[0]
