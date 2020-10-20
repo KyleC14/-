@@ -12,13 +12,14 @@ class Solution:
             if self.pre:
                 self.pre.right,root.left = root,self.pre
             else:
-                self.head = root
+                self.head = root#最左的节点
             self.pre = root
             dfs(root.right)
             return
         if not root:
             return root
-        self.pre = None
-        dfs(root)
+        self.pre = None #上一个节点
+        dfs(root) #pre最后会等于最后一个节点
+        #头尾节点设置
         self.head.left,self.pre.right = self.pre,self.head
         return self.head
